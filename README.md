@@ -8,6 +8,7 @@ https://prezi.com/view/h9b7zGxpD66caEgtN1Gy/
 * Play Videos while presenting
 * Web Browser Automation
 * Magnifier instead of lazer
+* Voice Command Input
 ## Hardware
 * NodeMCU
 * 3D Accelerometer
